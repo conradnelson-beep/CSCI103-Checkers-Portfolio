@@ -7,3 +7,4 @@ Make a move by typing in the row/column of the piece you want to move, then the 
 
 Conrad Nelson | conradjn@usc.edu
 Landi Jiang | lcjiang@usc.edu
+Charlie Wang | wangcp@usc.edu
